@@ -74,7 +74,7 @@ st.sidebar.title('Navigation')
 options = st.sidebar.selectbox('Select a page:', ['Prediction', 'Visualizations', 'About'])
 
 if options == 'Prediction':  # Prediction page
-    st.markdown("# :rainbow[Fashion MNIST Image Classification]")
+    st.markdown("# :rainbow[Fashion MNIST Image Classificator]")
 
     class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag',
                    'Ankle boot']
