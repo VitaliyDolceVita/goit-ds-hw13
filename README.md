@@ -26,3 +26,6 @@ https://fashion-mnist-cl.streamlit.app/
 - Інтерфейс для завантаження зображення, яке користувач хоче класифікувати.
 
 - Використання завантаженої моделі для передбачення класу завантаженого зображення.
+
+  ![image](https://github.com/VitaliyDolceVita/goit-ds-hw13/assets/47143915/8d0ce9ed-ecd9-405d-975b-89e1fb4f6622)
+
