@@ -8,15 +8,6 @@ import matplotlib.pyplot as plt
 import json
 
 
-st.markdown("""<style>
-.st-emotion-cache-q16mip e3g6aar1
-{ 
-    visibility: hidden;
-}
-</style>
-
-""")
-
 # Load the models
 cnn_model = load_model('fashion_mnist_model_cnn.h5')
 vgg16_model = load_model('fashion_mnist_model2_87_56563vgg16.h5')
