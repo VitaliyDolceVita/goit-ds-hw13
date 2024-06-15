@@ -29,3 +29,6 @@ https://fashion-mnist-cl.streamlit.app/
 
   ![image](https://github.com/VitaliyDolceVita/goit-ds-hw13/assets/47143915/8d0ce9ed-ecd9-405d-975b-89e1fb4f6622)
 
+  ![image](https://github.com/VitaliyDolceVita/goit-ds-hw13/assets/47143915/d2f1a1f4-04cc-44ed-bedc-0d8fa385f260)
+
+
